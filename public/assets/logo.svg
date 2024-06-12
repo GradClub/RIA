@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="594px" height="143px" viewBox="0 0 594 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>data_platform_login_logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Version-2:-RIA-Login" transform="translate(-116, -329)" fill="#FFFFFF">
+            <g id="data_platform_login_logo" transform="translate(116, 329)">
+                <g id="Group" transform="translate(215, 0)">
+                    <g id="Icon" fill-rule="nonzero">
+                        <circle id="Oval" opacity="0.2" cx="33" cy="34" r="33"></circle>
+                        <path d="M13,48.6146975 C13.1599132,47.7042225 13.5879161,46.8684531 13.8324891,46 C14.2463821,44.5198944 14.7731548,43.0818108 15.2434877,41.6203816 C16.1700434,38.7348762 17.1342258,35.8587089 18.0890014,32.9825416 C19.6175832,28.364799 21.1508683,23.7517255 22.6794501,19.1386521 C24.7630246,12.8540398 26.8371925,6.57409663 28.920767,0.289484369 C28.9395803,0.228786033 29.0007236,0.177425903 29.1230101,0 C36.7706223,23.046691 44.3853111,45.9906618 52,68.9393017 C51.95767,68.9579781 51.9200434,68.9813236 51.8777135,69 C51.026411,67.7019894 50.1751085,66.408648 49.3285094,65.1059683 C46.1913893,60.3014616 43.0636758,55.4922858 39.9218524,50.6877791 C37.4573082,46.9151441 34.9410275,43.179862 32.52822,39.3745432 C31.4934877,37.7450264 30.3505789,36.1855461 29.3628799,34.5280146 C29.1183068,34.1218027 28.9301737,34.1498173 28.6150507,34.4393017 C24.8570912,37.8850995 21.0991317,41.3308973 17.3270622,44.7533496 C15.8972504,46.0513601 14.5991317,47.498782 13.0047033,48.6146975 L13,48.6146975 L13,48.6146975 Z" id="Path"></path>
+                    </g>
+                    <text id="RIA" font-family="Orbitron-SemiBold, Orbitron" font-size="28" font-weight="500" line-spacing="24" letter-spacing="8">
+                        <tspan x="88" y="50">RIA</tspan>
+                    </text>
+                </g>
+                <text id="robotic-interview-an" font-family="Montserrat-SemiBold, Montserrat" font-size="28" font-weight="500" line-spacing="24" letter-spacing="0.21">
+                    <tspan x="0" y="146">ROBOTIC INTERVIEW AND ASSESSMENT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
