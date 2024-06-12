@@ -1,13 +1,13 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Home from './components/Home';
+import Login from './components/Login';
+
+import React from 'react';
 
 function App() {
   return (
-    <>
-      <Navbar/>
-      <Home/>
-    </>
+    <div className="App">
+      <Login />
+    </div>
   );
 }
 

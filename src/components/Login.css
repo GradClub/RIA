@@ -1,0 +1,144 @@
+/* src/LoginPage.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Lato:wght@400&display=swap');
+
+.login-container {
+  display: flex;
+  height: 100vh;
+}
+
+.left-side {
+  background-color: #190144;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-box {
+  opacity: 1;
+color: rgba(255, 255, 255, 1);
+font-family: "Montserrat-SemiBold";
+font-size: 28px;
+font-weight: 600;
+font-style: SemiBold;
+letter-spacing: 0.21px;
+text-align: left;
+text-transform: uppercase;
+max-width: 594px;
+}
+
+.top-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.icon {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.ria-text {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+
+.bottom-content {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 36px;
+}
+
+.right-side {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  width: 80%;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-heading {
+  margin-bottom: 20px;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: SemiBold;
+  letter-spacing: 0px;
+  text-align: left;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 0.87);
+  opacity: 1;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  margin-bottom: 8px;
+  display: block;
+  font-size: 14px;
+  color: #333;
+}
+
+.email {
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: Regular;
+  letter-spacing: 0.25px;
+  text-align: left;
+  line-height: 24px;
+  color: rgba(0, 0, 0, 0.87);
+  opacity: 1;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-button {
+  background-color: #190144;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.login-button:hover {
+  background-color: #2a0266;
+}
+
+.forgot-password {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  color: #190144;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
